@@ -1,22 +1,16 @@
 body {
     padding: 0;
     margin: 0;
-    /* background-image: url(photos/IMG_20201116_212541.jpg); */
-    background-color: navy;
-    background-size: cover;
     font-family: 'Lobster', cursive;
+    background-image: url(photos/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg);
+    background-size: cover;
   }
   
-  /*--- navigation bar ---*/
-  
-  .navbar {
-    
-  }
   
   .nav-link,
   .navbar-brand {
     
-    color:goldenrod;
+    color:silver;
     cursor: pointer;
    
   }
@@ -26,7 +20,7 @@ body {
   }
   
   .nav-link:hover {
-    color: #000;
+    color:blue;
   }
   
   .navbar-collapse {
@@ -60,19 +54,19 @@ body {
   }
   
   .description p {
-    color: #fff;
+    color:silver;
     font-size: 1.3rem;
     line-height: 1.5;
   }
   .bodi{
-    color:goldenrod;
+    color:silver;
     padding: 50px;
     font-family: 'Galada';
   } 
   .body-name{
     font-size:30px;
     font-family: 'Lobster', cursive;
-    color: khaki;
+    color:silver;
   } 
   .div{
     
@@ -95,8 +89,9 @@ body {
   .vin{
     
     align-content: center;
-    padding-left: 40%;
-    margin-bottom: 70px;
+    height:13rem;
+    margin-top: 50px;
+    padding-left: 40rem;
 
   }
   .button{
@@ -105,16 +100,7 @@ body {
     font-size: 15px;
     background-color: lightgray;
 
-    
-
   }
-.footer{
-  align-content: center;
-  position: absolute;
-  padding: 0;
-  margin: 0;
-  align-content: center;
-}
 .fa{
   padding: 20px;
   font-size: 30px;
