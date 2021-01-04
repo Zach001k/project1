@@ -93,6 +93,7 @@ body {
     margin-top: 50px;
     padding-left: 40rem;
     color: white;
+    
 
   }
   .button{
@@ -105,7 +106,7 @@ body {
 .fa{
   padding: 20px;
   font-size: 30px;
-  color: silver;
+  color: white
   align-content: center;
 
 
