@@ -92,10 +92,11 @@ body {
     height:13rem;
     margin-top: 50px;
     padding-left: 40rem;
+    color: white;
 
   }
   .button{
-    color: black;
+    color:black;
     border: double;
     font-size: 15px;
     background-color: lightgray;
@@ -108,4 +109,8 @@ body {
   align-content: center;
 
 
+} 
+.me{
+  align-items: center;
+  color: white;
 }
